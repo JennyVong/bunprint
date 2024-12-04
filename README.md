@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Bunprint ₍ᐢ. .ᐢ₎
+Bunprint is a fun, bun-themed personality quiz inspired by the 16 MBTI personality types. Although instead of 16 different bun types, there are 8!
 
-## Getting Started
+This project came to fruition from the joy and curiosity of my friend group doing various personality quizzes online. I wanted to add a little twist to them and made my own. It allowed me to challenge myself with designing a whole application by myself from start to finish since this project was graphic and design-heavy. The graphics and high-fidelity designs were all done on Sketchbook and Figma while the development end was done with React (TypeScript), Flask (Python) and PostgreSQL.  
+
+## Run application locally (⌐⊙_⊙)
 
 First, run the development server:
 
@@ -14,23 +17,4 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Running Locally on: [http://localhost:3000](http://localhost:3000) 
