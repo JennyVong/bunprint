@@ -3,6 +3,8 @@ Bunprint is a fun, bun-themed personality quiz inspired by the 16 MBTI personali
 
 This project came to fruition from the joy and curiosity of my friend group doing various personality quizzes online. I wanted to add a little twist to them and made my own. It allowed me to challenge myself with designing a whole application by myself from start to finish since this project was graphic and design-heavy. The graphics and high-fidelity designs were all done on Sketchbook and Figma while the development end was done with React (TypeScript), Flask (Python) and PostgreSQL.  
 
+Figma Designs: [https://www.figma.com/design/L0s3X4T8szTrN2LaS6HH0x/Bunprint?node-id=0-1&t=jSceupXJS5Kia3Sz-1]
+
 ## Run application locally (⌐⊙_⊙)
 
 First, run the development server:
